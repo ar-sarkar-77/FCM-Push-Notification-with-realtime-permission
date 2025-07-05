@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333016148327",
+    "project_id": "my-firebase-project-a0bab",
+    "storage_bucket": "my-firebase-project-a0bab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333016148327:android:8825e52f106c200302e7c2",
+        "android_client_info": {
+          "package_name": "com.anondo.myfirebaseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgtz7oPkvCMod1aDXO9NEH0L4mDvtBaZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
